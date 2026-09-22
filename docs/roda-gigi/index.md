@@ -174,3 +174,301 @@ Untuk sistem roda gigi standar yang digunakan sebagai dasar pembelajaran, nilai 
 \[
 \alpha = 20^\circ
 \]
+---
+
+## 5. Parameter Dasar Roda Gigi Lurus
+
+Roda gigi lurus (*spur gear*) memiliki beberapa parameter geometris yang digunakan untuk menentukan ukuran dan bentuk dasar roda gigi.
+
+### 5.1 Modul
+
+Modul merupakan parameter utama yang menentukan ukuran gigi pada sistem roda gigi metrik.
+
+Simbol modul:
+
+\[
+m
+\]
+
+dengan satuan milimeter (mm).
+
+Semakin besar nilai modul, semakin besar ukuran gigi.
+
+### 5.2 Jumlah Gigi
+
+Jumlah gigi dinyatakan dengan:
+
+\[
+z
+\]
+
+Nilai \(z\) menunjukkan jumlah gigi pada roda gigi.
+
+### 5.3 Diameter Lingkaran Pitch
+
+Diameter lingkaran pitch dinyatakan dengan:
+
+\[
+d
+\]
+
+Untuk roda gigi metrik:
+
+\[
+d = mz
+\]
+
+### 5.4 Addendum
+
+Untuk profil gigi standar yang digunakan dalam materi dasar ini:
+
+\[
+h_a = m
+\]
+
+Addendum adalah tinggi kepala gigi yang diukur dari lingkaran pitch menuju lingkaran luar.
+
+### 5.5 Dedendum
+
+Dedendum standar:
+
+\[
+h_f = 1{,}25m
+\]
+
+Dedendum adalah tinggi kaki gigi yang diukur dari lingkaran pitch menuju lingkaran kaki.
+
+### 5.6 Tinggi Total Gigi
+
+Tinggi total gigi merupakan jumlah addendum dan dedendum:
+
+\[
+h = h_a + h_f
+\]
+
+sehingga:
+
+\[
+h = 2{,}25m
+\]
+
+### 5.7 Diameter Luar
+
+Diameter luar (*outside diameter*) dinyatakan dengan:
+
+\[
+d_a
+\]
+
+Untuk profil standar:
+
+\[
+d_a = d + 2m
+\]
+
+atau:
+
+\[
+d_a = m(z+2)
+\]
+
+### 5.8 Diameter Kaki
+
+Diameter kaki (*root diameter*) dinyatakan dengan:
+
+\[
+d_f
+\]
+
+Dengan dedendum sebesar \(1{,}25m\):
+
+\[
+d_f = d - 2(1{,}25m)
+\]
+
+sehingga:
+
+\[
+d_f = m(z-2{,}5)
+\]
+
+### 5.9 Circular Pitch
+
+Circular pitch merupakan jarak sepanjang lingkaran pitch antara titik yang bersesuaian pada dua gigi yang berdekatan.
+
+Simbol:
+
+\[
+p
+\]
+
+Hubungannya dengan modul:
+
+\[
+p = \pi m
+\]
+
+### 5.10 Sudut Tekan
+
+Sudut tekan (*pressure angle*) merupakan parameter geometris yang berkaitan dengan arah gaya pada pasangan roda gigi.
+
+Untuk contoh standar yang digunakan pada materi dasar ini:
+
+\[
+\alpha = 20^\circ
+\]
+
+---
+
+## 6. Contoh Perhitungan Geometri Dasar
+
+### 6.1 Data Roda Gigi
+
+Sebuah roda gigi lurus memiliki:
+
+| Parameter | Nilai |
+|---|---:|
+| Modul, \(m\) | 2 mm |
+| Jumlah gigi, \(z\) | 30 |
+| Sudut tekan, \(\alpha\) | 20° |
+
+Tentukan:
+
+- Diameter pitch \(d\)
+- Addendum \(h_a\)
+- Dedendum \(h_f\)
+- Tinggi total gigi \(h\)
+- Diameter luar \(d_a\)
+- Diameter kaki \(d_f\)
+- Circular pitch \(p\)
+
+### 6.2 Diameter Pitch
+
+Gunakan persamaan:
+
+\[
+d = mz
+\]
+
+Substitusi:
+
+\[
+d = 2(30)
+\]
+
+\[
+\boxed{d = 60\text{ mm}}
+\]
+
+Jadi diameter lingkaran pitch adalah **60 mm**.
+
+### 6.3 Addendum
+
+\[
+h_a = m
+\]
+
+\[
+h_a = 2
+\]
+
+\[
+\boxed{h_a = 2\text{ mm}}
+\]
+
+### 6.4 Dedendum
+
+\[
+h_f = 1{,}25m
+\]
+
+\[
+h_f = 1{,}25(2)
+\]
+
+\[
+\boxed{h_f = 2{,}5\text{ mm}}
+\]
+
+### 6.5 Tinggi Total Gigi
+
+\[
+h = h_a + h_f
+\]
+
+\[
+h = 2 + 2{,}5
+\]
+
+\[
+\boxed{h = 4{,}5\text{ mm}}
+\]
+
+### 6.6 Diameter Luar
+
+\[
+d_a = m(z+2)
+\]
+
+\[
+d_a = 2(30+2)
+\]
+
+\[
+d_a = 2(32)
+\]
+
+\[
+\boxed{d_a = 64\text{ mm}}
+\]
+
+### 6.7 Diameter Kaki
+
+\[
+d_f = m(z-2{,}5)
+\]
+
+\[
+d_f = 2(30-2{,}5)
+\]
+
+\[
+d_f = 2(27{,}5)
+\]
+
+\[
+\boxed{d_f = 55\text{ mm}}
+\]
+
+### 6.8 Circular Pitch
+
+\[
+p = \pi m
+\]
+
+\[
+p = \pi(2)
+\]
+
+\[
+\boxed{p \approx 6{,}283\text{ mm}}
+\]
+
+### 6.9 Hasil Perhitungan
+
+| Parameter | Simbol | Hasil |
+|---|---|---:|
+| Modul | \(m\) | 2 mm |
+| Jumlah gigi | \(z\) | 30 |
+| Sudut tekan | \(\alpha\) | 20° |
+| Diameter pitch | \(d\) | 60 mm |
+| Addendum | \(h_a\) | 2 mm |
+| Dedendum | \(h_f\) | 2,5 mm |
+| Tinggi total gigi | \(h\) | 4,5 mm |
+| Diameter luar | \(d_a\) | 64 mm |
+| Diameter kaki | \(d_f\) | 55 mm |
+| Circular pitch | \(p\) | 6,283 mm |
+
+> **Catatan:** Persamaan di atas digunakan sebagai model geometri dasar roda gigi lurus standar untuk pembelajaran. Pada perancangan roda gigi yang sebenarnya, parameter dan koreksi profil dapat bergantung pada sistem profil, standar yang digunakan, serta kondisi desain.
+
+---
