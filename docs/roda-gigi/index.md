@@ -472,3 +472,137 @@ p = \pi(2)
 > **Catatan:** Persamaan di atas digunakan sebagai model geometri dasar roda gigi lurus standar untuk pembelajaran. Pada perancangan roda gigi yang sebenarnya, parameter dan koreksi profil dapat bergantung pada sistem profil, standar yang digunakan, serta kondisi desain.
 
 ---
+---
+
+## 7. Konvensi Penggambaran Roda Gigi
+
+Penggambaran roda gigi pada gambar teknik tidak selalu dilakukan dengan menggambar seluruh bentuk profil gigi secara sebenarnya. Untuk memberikan informasi teknis dengan cara yang sederhana dan mudah dibaca, roda gigi dapat direpresentasikan secara konvensional.
+
+ISO 2203 membahas representasi konvensional roda gigi pada gambar detail maupun gambar rakitan. Prinsip representasi ini digunakan untuk menunjukkan informasi geometris penting tanpa harus menggambarkan seluruh profil gigi secara nyata.
+
+### 7.1 Lingkaran Luar
+
+Lingkaran luar menunjukkan batas diameter luar roda gigi.
+
+Diameter luar dinyatakan dengan:
+
+\[
+d_a
+\]
+
+Lingkaran ini menunjukkan bagian terluar dari gigi roda gigi.
+
+### 7.2 Lingkaran Pitch
+
+Lingkaran pitch merupakan lingkaran acuan utama dalam geometri roda gigi.
+
+Diameter lingkaran pitch:
+
+\[
+d
+\]
+
+Pada gambar teknik, lingkaran pitch direpresentasikan dengan garis yang sesuai dengan aturan jenis garis pada gambar teknik.
+
+### 7.3 Lingkaran Kaki
+
+Lingkaran kaki menunjukkan batas dasar gigi.
+
+Diameternya dinyatakan dengan:
+
+\[
+d_f
+\]
+
+Lingkaran ini berkaitan dengan bagian dasar atau kaki gigi.
+
+### 7.4 Sumbu Roda Gigi
+
+Sumbu roda gigi menunjukkan pusat rotasi roda gigi.
+
+Pada tampak depan, sumbu ditunjukkan melalui pusat lingkaran.
+
+### 7.5 Representasi Gigi
+
+Pada gambar teknik, bentuk gigi dapat disederhanakan sesuai dengan ketentuan representasi konvensional.
+
+Tujuan penyederhanaan tersebut adalah agar gambar tetap memberikan informasi teknis yang diperlukan tanpa membuat gambar menjadi terlalu kompleks.
+
+### 7.6 Tampak Depan
+
+Pada tampak depan roda gigi lurus, beberapa lingkaran utama dapat digunakan untuk menjelaskan geometri roda gigi, antara lain:
+
+- Lingkaran luar
+- Lingkaran pitch
+- Lingkaran kaki
+- Sumbu atau garis pusat
+
+Tampilan tersebut membantu menunjukkan hubungan antara ukuran roda gigi dan jumlah giginya.
+
+### 7.7 Tampak Samping
+
+Pada tampak samping, gambar menunjukkan ketebalan roda gigi dan bentuk badan roda gigi.
+
+Informasi yang dapat ditampilkan antara lain:
+
+- Lebar roda gigi
+- Diameter lubang
+- Diameter poros atau bore
+- Keyway jika digunakan
+- Bentuk hub
+- Detail lainnya sesuai kebutuhan gambar kerja
+
+### 7.8 Gambar Detail Roda Gigi
+
+Pada gambar detail, informasi roda gigi harus cukup untuk memungkinkan komponen dibuat atau diperiksa.
+
+Informasi yang dapat dicantumkan meliputi:
+
+- Modul
+- Jumlah gigi
+- Sudut tekan
+- Lebar roda gigi
+- Diameter lubang
+- Keyway
+- Material
+- Toleransi
+- Kekasaran permukaan jika diperlukan
+- Informasi lain yang diperlukan untuk proses manufaktur
+
+### 7.9 Gambar Rakitan Pasangan Roda Gigi
+
+Pada gambar rakitan, dua roda gigi dapat ditampilkan dalam posisi saling berkaitan.
+
+Informasi yang perlu diperhatikan antara lain:
+
+- Posisi sumbu
+- Jarak antar sumbu
+- Arah putaran
+- Hubungan jumlah gigi
+- Hubungan diameter pitch
+- Posisi relatif kedua roda gigi
+
+Untuk dua roda gigi luar yang saling berkaitan, jarak antar sumbu secara geometris berkaitan dengan diameter pitch kedua roda gigi:
+
+\[
+a = \frac{d_1+d_2}{2}
+\]
+
+dengan:
+
+- \(a\) = jarak sumbu
+- \(d_1\) = diameter pitch roda gigi 1
+- \(d_2\) = diameter pitch roda gigi 2
+
+### 7.10 Prinsip Penyederhanaan Gambar
+
+Penggambaran roda gigi harus mempertimbangkan keterbacaan gambar.
+
+Tidak semua detail geometris gigi harus selalu ditampilkan secara lengkap. Representasi konvensional digunakan agar informasi penting dapat dibaca dengan jelas dan gambar tidak menjadi terlalu rumit.
+
+Dengan demikian, mahasiswa perlu membedakan antara:
+
+1. **geometri sebenarnya**, yaitu bentuk fisik gigi;
+2. **representasi konvensional**, yaitu cara roda gigi ditampilkan pada gambar teknik.
+
+> **Inti pembelajaran:** gambar teknik roda gigi tidak sama dengan gambar profil gigi secara nyata. Gambar teknik menggunakan representasi yang disederhanakan agar informasi manufaktur dan pemeriksaan dapat dikomunikasikan dengan jelas.
