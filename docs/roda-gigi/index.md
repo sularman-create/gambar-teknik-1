@@ -61,9 +61,9 @@ Untuk memahami penggambaran roda gigi, beberapa istilah dasar perlu dipahami ter
 
 Jumlah gigi dinyatakan dengan simbol:
 
-\[
+$$
 z
-\]
+$$
 
 Jumlah gigi merupakan banyaknya gigi pada sebuah roda gigi.
 
@@ -73,9 +73,9 @@ Modul merupakan parameter dasar yang digunakan untuk menentukan ukuran gigi pada
 
 Modul dinyatakan dengan simbol:
 
-\[
+$$
 m
-\]
+$$
 
 Satuan modul umumnya adalah milimeter.
 
@@ -85,21 +85,21 @@ Lingkaran pitch atau *pitch circle* merupakan lingkaran acuan yang digunakan dal
 
 Diameter lingkaran pitch dinyatakan dengan:
 
-\[
+$$
 d
-\]
+$$
 
 Untuk roda gigi standar:
 
-\[
+$$
 d = mz
-\]
+$$
 
 dengan:
 
-- \(d\) = diameter lingkaran pitch
-- \(m\) = modul
-- \(z\) = jumlah gigi
+- $d$ = diameter lingkaran pitch
+- $m$ = modul
+- $z$ = jumlah gigi
 
 ### 4.4 Diameter Luar
 
@@ -107,9 +107,9 @@ Diameter luar (*outside diameter*) merupakan diameter yang melewati bagian terlu
 
 Simbol yang digunakan:
 
-\[
+$$
 d_a
-\]
+$$
 
 ### 4.5 Diameter Kaki
 
@@ -117,9 +117,9 @@ Diameter kaki (*root diameter*) merupakan diameter pada bagian dasar atau kaki g
 
 Simbol yang digunakan:
 
-\[
+$$
 d_f
-\]
+$$
 
 ### 4.6 Addendum
 
@@ -127,9 +127,9 @@ Addendum adalah tinggi bagian gigi yang berada di antara lingkaran pitch dan lin
 
 Simbol:
 
-\[
+$$
 h_a
-\]
+$$
 
 ### 4.7 Dedendum
 
@@ -137,17 +137,17 @@ Dedendum adalah tinggi bagian gigi yang berada di antara lingkaran pitch dan lin
 
 Simbol:
 
-\[
+$$
 h_f
-\]
+$$
 
 ### 4.8 Tinggi Gigi
 
 Tinggi total gigi merupakan jumlah addendum dan dedendum:
 
-\[
+$$
 h = h_a + h_f
-\]
+$$
 
 ### 4.9 Circular Pitch
 
@@ -155,15 +155,15 @@ Circular pitch adalah jarak yang diukur sepanjang lingkaran pitch antara titik y
 
 Simbol:
 
-\[
+$$
 p
-\]
+$$
 
 Hubungan dasarnya dengan modul adalah:
 
-\[
+$$
 p = \pi m
-\]
+$$
 
 ### 4.10 Sudut Tekan
 
@@ -171,9 +171,10 @@ Sudut tekan (*pressure angle*) merupakan sudut antara garis kerja gaya dengan ga
 
 Untuk sistem roda gigi standar yang digunakan sebagai dasar pembelajaran, nilai sudut tekan yang umum digunakan adalah:
 
-\[
+$$
 \alpha = 20^\circ
-\]
+$$
+
 ---
 
 ## 5. Parameter Dasar Roda Gigi Lurus
@@ -186,9 +187,9 @@ Modul merupakan parameter utama yang menentukan ukuran gigi pada sistem roda gig
 
 Simbol modul:
 
-\[
+$$
 m
-\]
+$$
 
 dengan satuan milimeter (mm).
 
@@ -198,33 +199,33 @@ Semakin besar nilai modul, semakin besar ukuran gigi.
 
 Jumlah gigi dinyatakan dengan:
 
-\[
+$$
 z
-\]
+$$
 
-Nilai \(z\) menunjukkan jumlah gigi pada roda gigi.
+Nilai $z$ menunjukkan jumlah gigi pada roda gigi.
 
 ### 5.3 Diameter Lingkaran Pitch
 
 Diameter lingkaran pitch dinyatakan dengan:
 
-\[
+$$
 d
-\]
+$$
 
 Untuk roda gigi metrik:
 
-\[
+$$
 d = mz
-\]
+$$
 
 ### 5.4 Addendum
 
 Untuk profil gigi standar yang digunakan dalam materi dasar ini:
 
-\[
+$$
 h_a = m
-\]
+$$
 
 Addendum adalah tinggi kepala gigi yang diukur dari lingkaran pitch menuju lingkaran luar.
 
@@ -232,9 +233,9 @@ Addendum adalah tinggi kepala gigi yang diukur dari lingkaran pitch menuju lingk
 
 Dedendum standar:
 
-\[
+$$
 h_f = 1{,}25m
-\]
+$$
 
 Dedendum adalah tinggi kaki gigi yang diukur dari lingkaran pitch menuju lingkaran kaki.
 
@@ -242,55 +243,55 @@ Dedendum adalah tinggi kaki gigi yang diukur dari lingkaran pitch menuju lingkar
 
 Tinggi total gigi merupakan jumlah addendum dan dedendum:
 
-\[
+$$
 h = h_a + h_f
-\]
+$$
 
 sehingga:
 
-\[
+$$
 h = 2{,}25m
-\]
+$$
 
 ### 5.7 Diameter Luar
 
 Diameter luar (*outside diameter*) dinyatakan dengan:
 
-\[
+$$
 d_a
-\]
+$$
 
 Untuk profil standar:
 
-\[
+$$
 d_a = d + 2m
-\]
+$$
 
 atau:
 
-\[
+$$
 d_a = m(z+2)
-\]
+$$
 
 ### 5.8 Diameter Kaki
 
 Diameter kaki (*root diameter*) dinyatakan dengan:
 
-\[
+$$
 d_f
-\]
+$$
 
-Dengan dedendum sebesar \(1{,}25m\):
+Dengan dedendum sebesar $1{,}25m$:
 
-\[
+$$
 d_f = d - 2(1{,}25m)
-\]
+$$
 
 sehingga:
 
-\[
+$$
 d_f = m(z-2{,}5)
-\]
+$$
 
 ### 5.9 Circular Pitch
 
@@ -298,15 +299,15 @@ Circular pitch merupakan jarak sepanjang lingkaran pitch antara titik yang berse
 
 Simbol:
 
-\[
+$$
 p
-\]
+$$
 
 Hubungannya dengan modul:
 
-\[
+$$
 p = \pi m
-\]
+$$
 
 ### 5.10 Sudut Tekan
 
@@ -314,9 +315,9 @@ Sudut tekan (*pressure angle*) merupakan parameter geometris yang berkaitan deng
 
 Untuk contoh standar yang digunakan pada materi dasar ini:
 
-\[
+$$
 \alpha = 20^\circ
-\]
+$$
 
 ---
 
@@ -328,150 +329,149 @@ Sebuah roda gigi lurus memiliki:
 
 | Parameter | Nilai |
 |---|---:|
-| Modul, \(m\) | 2 mm |
-| Jumlah gigi, \(z\) | 30 |
-| Sudut tekan, \(\alpha\) | 20° |
+| Modul, $m$ | 2 mm |
+| Jumlah gigi, $z$ | 30 |
+| Sudut tekan, $\alpha$ | $20^\circ$ |
 
 Tentukan:
 
-- Diameter pitch \(d\)
-- Addendum \(h_a\)
-- Dedendum \(h_f\)
-- Tinggi total gigi \(h\)
-- Diameter luar \(d_a\)
-- Diameter kaki \(d_f\)
-- Circular pitch \(p\)
+- Diameter pitch $d$
+- Addendum $h_a$
+- Dedendum $h_f$
+- Tinggi total gigi $h$
+- Diameter luar $d_a$
+- Diameter kaki $d_f$
+- Circular pitch $p$
 
 ### 6.2 Diameter Pitch
 
 Gunakan persamaan:
 
-\[
+$$
 d = mz
-\]
+$$
 
 Substitusi:
 
-\[
+$$
 d = 2(30)
-\]
+$$
 
-\[
+$$
 \boxed{d = 60\text{ mm}}
-\]
+$$
 
 Jadi diameter lingkaran pitch adalah **60 mm**.
 
 ### 6.3 Addendum
 
-\[
+$$
 h_a = m
-\]
+$$
 
-\[
+$$
 h_a = 2
-\]
+$$
 
-\[
+$$
 \boxed{h_a = 2\text{ mm}}
-\]
+$$
 
 ### 6.4 Dedendum
 
-\[
+$$
 h_f = 1{,}25m
-\]
+$$
 
-\[
+$$
 h_f = 1{,}25(2)
-\]
+$$
 
-\[
+$$
 \boxed{h_f = 2{,}5\text{ mm}}
-\]
+$$
 
 ### 6.5 Tinggi Total Gigi
 
-\[
+$$
 h = h_a + h_f
-\]
+$$
 
-\[
+$$
 h = 2 + 2{,}5
-\]
+$$
 
-\[
+$$
 \boxed{h = 4{,}5\text{ mm}}
-\]
+$$
 
 ### 6.6 Diameter Luar
 
-\[
+$$
 d_a = m(z+2)
-\]
+$$
 
-\[
+$$
 d_a = 2(30+2)
-\]
+$$
 
-\[
+$$
 d_a = 2(32)
-\]
+$$
 
-\[
+$$
 \boxed{d_a = 64\text{ mm}}
-\]
+$$
 
 ### 6.7 Diameter Kaki
 
-\[
+$$
 d_f = m(z-2{,}5)
-\]
+$$
 
-\[
+$$
 d_f = 2(30-2{,}5)
-\]
+$$
 
-\[
+$$
 d_f = 2(27{,}5)
-\]
+$$
 
-\[
+$$
 \boxed{d_f = 55\text{ mm}}
-\]
+$$
 
 ### 6.8 Circular Pitch
 
-\[
+$$
 p = \pi m
-\]
+$$
 
-\[
+$$
 p = \pi(2)
-\]
+$$
 
-\[
+$$
 \boxed{p \approx 6{,}283\text{ mm}}
-\]
+$$
 
 ### 6.9 Hasil Perhitungan
 
 | Parameter | Simbol | Hasil |
 |---|---|---:|
-| Modul | \(m\) | 2 mm |
-| Jumlah gigi | \(z\) | 30 |
-| Sudut tekan | \(\alpha\) | 20° |
-| Diameter pitch | \(d\) | 60 mm |
-| Addendum | \(h_a\) | 2 mm |
-| Dedendum | \(h_f\) | 2,5 mm |
-| Tinggi total gigi | \(h\) | 4,5 mm |
-| Diameter luar | \(d_a\) | 64 mm |
-| Diameter kaki | \(d_f\) | 55 mm |
-| Circular pitch | \(p\) | 6,283 mm |
+| Modul | $m$ | 2 mm |
+| Jumlah gigi | $z$ | 30 |
+| Sudut tekan | $\alpha$ | $20^\circ$ |
+| Diameter pitch | $d$ | 60 mm |
+| Addendum | $h_a$ | 2 mm |
+| Dedendum | $h_f$ | 2,5 mm |
+| Tinggi total gigi | $h$ | 4,5 mm |
+| Diameter luar | $d_a$ | 64 mm |
+| Diameter kaki | $d_f$ | 55 mm |
+| Circular pitch | $p$ | 6,283 mm |
 
 > **Catatan:** Persamaan di atas digunakan sebagai model geometri dasar roda gigi lurus standar untuk pembelajaran. Pada perancangan roda gigi yang sebenarnya, parameter dan koreksi profil dapat bergantung pada sistem profil, standar yang digunakan, serta kondisi desain.
 
----
 ---
 
 ## 7. Konvensi Penggambaran Roda Gigi
@@ -486,9 +486,9 @@ Lingkaran luar menunjukkan batas diameter luar roda gigi.
 
 Diameter luar dinyatakan dengan:
 
-\[
+$$
 d_a
-\]
+$$
 
 Lingkaran ini menunjukkan bagian terluar dari gigi roda gigi.
 
@@ -498,9 +498,9 @@ Lingkaran pitch merupakan lingkaran acuan utama dalam geometri roda gigi.
 
 Diameter lingkaran pitch:
 
-\[
+$$
 d
-\]
+$$
 
 Pada gambar teknik, lingkaran pitch direpresentasikan dengan garis yang sesuai dengan aturan jenis garis pada gambar teknik.
 
@@ -510,9 +510,9 @@ Lingkaran kaki menunjukkan batas dasar gigi.
 
 Diameternya dinyatakan dengan:
 
-\[
+$$
 d_f
-\]
+$$
 
 Lingkaran ini berkaitan dengan bagian dasar atau kaki gigi.
 
@@ -584,15 +584,15 @@ Informasi yang perlu diperhatikan antara lain:
 
 Untuk dua roda gigi luar yang saling berkaitan, jarak antar sumbu secara geometris berkaitan dengan diameter pitch kedua roda gigi:
 
-\[
+$$
 a = \frac{d_1+d_2}{2}
-\]
+$$
 
 dengan:
 
-- \(a\) = jarak sumbu
-- \(d_1\) = diameter pitch roda gigi 1
-- \(d_2\) = diameter pitch roda gigi 2
+- $a$ = jarak sumbu
+- $d_1$ = diameter pitch roda gigi 1
+- $d_2$ = diameter pitch roda gigi 2
 
 ### 7.10 Prinsip Penyederhanaan Gambar
 
@@ -606,3 +606,204 @@ Dengan demikian, mahasiswa perlu membedakan antara:
 2. **representasi konvensional**, yaitu cara roda gigi ditampilkan pada gambar teknik.
 
 > **Inti pembelajaran:** gambar teknik roda gigi tidak sama dengan gambar profil gigi secara nyata. Gambar teknik menggunakan representasi yang disederhanakan agar informasi manufaktur dan pemeriksaan dapat dikomunikasikan dengan jelas.
+>
+---
+
+## 8. Langkah Penggambaran Roda Gigi
+
+Penggambaran roda gigi dilakukan berdasarkan parameter geometris yang telah dihitung sebelumnya. Untuk latihan dasar, digunakan contoh roda gigi lurus dengan data:
+
+| Parameter | Nilai |
+|---|---:|
+| Modul, $m$ | 2 mm |
+| Jumlah gigi, $z$ | 30 |
+| Sudut tekan, $\alpha$ | 20° |
+| Diameter pitch, $d$ | 60 mm |
+| Diameter luar, $d_a$ | 64 mm |
+| Diameter kaki, $d_f$ | 55 mm |
+
+### 8.1 Menentukan Data Dasar
+
+Sebelum menggambar, pastikan data roda gigi telah diketahui atau dihitung.
+
+Data utama yang digunakan adalah:
+
+- Modul
+- Jumlah gigi
+- Diameter pitch
+- Diameter luar
+- Diameter kaki
+- Sudut tekan
+- Lebar roda gigi
+- Diameter lubang poros
+
+Untuk latihan ini:
+
+$$
+m = 2\text{ mm}
+$$
+
+$$
+z = 30
+$$
+
+$$
+d = 60\text{ mm}
+$$
+
+$$
+d_a = 64\text{ mm}
+$$
+
+$$
+d_f = 55\text{ mm}
+$$
+
+### 8.2 Menggambar Lingkaran Konstruksi
+
+Buat tiga lingkaran konsentris sebagai dasar penggambaran:
+
+1. Lingkaran luar dengan diameter $d_a$.
+2. Lingkaran pitch dengan diameter $d$.
+3. Lingkaran kaki dengan diameter $d_f$.
+
+Untuk contoh:
+
+$$
+d_a = 64\text{ mm}
+$$
+
+$$
+d = 60\text{ mm}
+$$
+
+$$
+d_f = 55\text{ mm}
+$$
+
+Ketiga lingkaran memiliki pusat yang sama.
+
+### 8.3 Menentukan Pembagian Gigi
+
+Jumlah gigi roda gigi adalah:
+
+$$
+z = 30
+$$
+
+Satu putaran penuh memiliki sudut:
+
+$$
+360^\circ
+$$
+
+Maka sudut pembagian setiap gigi adalah:
+
+$$
+\theta = \frac{360^\circ}{z}
+$$
+
+Untuk 30 gigi:
+
+$$
+\theta = \frac{360^\circ}{30}
+$$
+
+$$
+\boxed{\theta = 12^\circ}
+$$
+
+Dengan demikian, posisi setiap gigi ditentukan berdasarkan pembagian sudut sebesar $12^\circ$.
+
+### 8.4 Menentukan Posisi Gigi
+
+Setelah lingkaran pitch dibagi menjadi 30 bagian, titik-titik pembagian digunakan sebagai acuan posisi gigi.
+
+Pembagian dapat dilakukan menggunakan:
+
+- konstruksi geometris;
+- perangkat lunak CAD; atau
+- metode pembagian lingkaran yang sesuai.
+
+Untuk pembelajaran gambar teknik, mahasiswa perlu memahami bahwa jumlah pembagian harus sesuai dengan jumlah gigi yang ditentukan.
+
+### 8.5 Menggambar Profil Gigi
+
+Profil gigi roda gigi standar menggunakan profil involute.
+
+Dalam praktik penggambaran teknik, profil gigi dapat dibuat dengan metode konstruksi geometris atau menggunakan perangkat lunak CAD yang memiliki fitur pembuatan roda gigi.
+
+Profil yang digunakan harus konsisten dengan parameter roda gigi yang telah ditentukan.
+
+### 8.6 Menggambar Lubang Poros
+
+Jika roda gigi memiliki lubang poros (*bore*), diameter lubang harus ditentukan berdasarkan kebutuhan poros dan sistem pemasangannya.
+
+Jika digunakan pasak (*keyway*), bentuk dan ukuran alur pasak juga harus ditampilkan sesuai standar dan kebutuhan komponen.
+
+### 8.7 Menggambar Tampak Samping
+
+Selain tampak depan, gambar kerja roda gigi perlu menunjukkan informasi mengenai:
+
+- lebar roda gigi;
+- diameter lubang;
+- bentuk hub;
+- keyway jika ada;
+- detail lainnya yang diperlukan.
+
+Tampak samping digunakan untuk memberikan informasi yang tidak dapat ditunjukkan secara lengkap pada tampak depan.
+
+### 8.8 Pemberian Ukuran
+
+Dimensi pada gambar kerja harus memberikan informasi yang diperlukan untuk pembuatan dan pemeriksaan komponen.
+
+Untuk roda gigi, informasi yang dapat dicantumkan antara lain:
+
+- Modul;
+- jumlah gigi;
+- diameter lubang;
+- lebar roda gigi;
+- ukuran hub;
+- keyway;
+- toleransi;
+- material;
+- kekasaran permukaan jika diperlukan.
+
+### 8.9 Identifikasi Roda Gigi
+
+Informasi dasar roda gigi dapat dituliskan pada gambar kerja, misalnya:
+
+**Roda Gigi Lurus:**
+
+$$
+m = 2
+$$
+
+$$
+z = 30
+$$
+
+$$
+\alpha = 20^\circ
+$$
+
+Informasi tersebut membantu memastikan bahwa parameter yang digunakan dalam pembuatan komponen dapat diidentifikasi dengan jelas.
+
+### 8.10 Urutan Penggambaran
+
+Secara umum, urutan penggambaran roda gigi dapat diringkas sebagai berikut:
+
+1. Tentukan data roda gigi.
+2. Hitung parameter geometris.
+3. Gambar sumbu dan pusat roda gigi.
+4. Gambar lingkaran luar.
+5. Gambar lingkaran pitch.
+6. Gambar lingkaran kaki.
+7. Bagi lingkaran sesuai jumlah gigi.
+8. Konstruksi profil gigi.
+9. Gambar lubang poros dan keyway jika diperlukan.
+10. Gambar tampak samping.
+11. Tambahkan dimensi dan informasi teknis.
+12. Periksa kembali kesesuaian gambar dengan data roda gigi.
+
+> **Catatan:** Pada gambar teknik, konstruksi profil gigi dan representasi konvensional harus dibedakan. Profil involute merupakan bentuk geometris gigi, sedangkan gambar kerja dapat menggunakan representasi konvensional sesuai standar gambar teknik.
