@@ -687,7 +687,7 @@ Ketiga lingkaran memiliki pusat yang sama.
 
 Pada tahap awal penggambaran, tiga lingkaran utama dibuat secara konsentris, yaitu lingkaran luar, lingkaran pitch, dan lingkaran kaki.
 
-![Konstruksi dasar roda gigi](../../assets/images/roda-gigi-konstruksi-dasar.png)
+![Konstruksi dasar roda gigi](../assets/images/roda-gigi-konstruksi-dasar.png)
 
 *Gambar 1. Ilustrasi konstruksi dasar roda gigi lurus dengan modul 2 mm dan jumlah gigi 30.*
 

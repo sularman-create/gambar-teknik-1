@@ -1,0 +1,21 @@
+site_name: Gambar Teknik 1
+site_description: Materi digital Gambar Teknik 1 - Teknik Mesin
+site_author: Ir. Sularman, S.T., M.T.
+
+theme:
+  name: readthedocs
+  locale: id
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax.js
+
+nav:
+  - Beranda: index.md
+
+  - Materi:
+      - Roda Gigi: roda-gigi/index.md
