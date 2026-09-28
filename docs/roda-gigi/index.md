@@ -683,7 +683,15 @@ $$
 
 Ketiga lingkaran memiliki pusat yang sama.
 
-### 8.3 Menentukan Pembagian Gigi
+### 8.3 Ilustrasi Lingkaran Konstruksi
+
+Pada tahap awal penggambaran, tiga lingkaran utama dibuat secara konsentris, yaitu lingkaran luar, lingkaran pitch, dan lingkaran kaki.
+
+![Konstruksi dasar roda gigi](../../assets/images/roda-gigi-konstruksi-dasar.png)
+
+*Gambar 1. Ilustrasi konstruksi dasar roda gigi lurus dengan modul 2 mm dan jumlah gigi 30.*
+
+### 8.4 Menentukan Pembagian Gigi
 
 Jumlah gigi roda gigi adalah:
 
@@ -715,7 +723,7 @@ $$
 
 Dengan demikian, posisi setiap gigi ditentukan berdasarkan pembagian sudut sebesar $12^\circ$.
 
-### 8.4 Menentukan Posisi Gigi
+### 8.5 Menentukan Posisi Gigi
 
 Setelah lingkaran pitch dibagi menjadi 30 bagian, titik-titik pembagian digunakan sebagai acuan posisi gigi.
 
@@ -727,7 +735,7 @@ Pembagian dapat dilakukan menggunakan:
 
 Untuk pembelajaran gambar teknik, mahasiswa perlu memahami bahwa jumlah pembagian harus sesuai dengan jumlah gigi yang ditentukan.
 
-### 8.5 Menggambar Profil Gigi
+### 8.6 Menggambar Profil Gigi
 
 Profil gigi roda gigi standar menggunakan profil involute.
 
@@ -735,13 +743,13 @@ Dalam praktik penggambaran teknik, profil gigi dapat dibuat dengan metode konstr
 
 Profil yang digunakan harus konsisten dengan parameter roda gigi yang telah ditentukan.
 
-### 8.6 Menggambar Lubang Poros
+### 8.7 Menggambar Lubang Poros
 
 Jika roda gigi memiliki lubang poros (*bore*), diameter lubang harus ditentukan berdasarkan kebutuhan poros dan sistem pemasangannya.
 
 Jika digunakan pasak (*keyway*), bentuk dan ukuran alur pasak juga harus ditampilkan sesuai standar dan kebutuhan komponen.
 
-### 8.7 Menggambar Tampak Samping
+### 8.8 Menggambar Tampak Samping
 
 Selain tampak depan, gambar kerja roda gigi perlu menunjukkan informasi mengenai:
 
@@ -753,7 +761,7 @@ Selain tampak depan, gambar kerja roda gigi perlu menunjukkan informasi mengenai
 
 Tampak samping digunakan untuk memberikan informasi yang tidak dapat ditunjukkan secara lengkap pada tampak depan.
 
-### 8.8 Pemberian Ukuran
+### 8.9 Pemberian Ukuran
 
 Dimensi pada gambar kerja harus memberikan informasi yang diperlukan untuk pembuatan dan pemeriksaan komponen.
 
@@ -769,7 +777,7 @@ Untuk roda gigi, informasi yang dapat dicantumkan antara lain:
 - material;
 - kekasaran permukaan jika diperlukan.
 
-### 8.9 Identifikasi Roda Gigi
+### 8.10 Identifikasi Roda Gigi
 
 Informasi dasar roda gigi dapat dituliskan pada gambar kerja, misalnya:
 
@@ -789,7 +797,7 @@ $$
 
 Informasi tersebut membantu memastikan bahwa parameter yang digunakan dalam pembuatan komponen dapat diidentifikasi dengan jelas.
 
-### 8.10 Urutan Penggambaran
+### 8.11 Urutan Penggambaran
 
 Secara umum, urutan penggambaran roda gigi dapat diringkas sebagai berikut:
 
